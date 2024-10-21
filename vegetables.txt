@@ -1,3 +1,0 @@
-cucumber
-Cherry
-Carrot
